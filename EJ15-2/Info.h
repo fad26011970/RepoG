@@ -9,6 +9,7 @@
  git remote add origin https://github.com/fad26011970/RepoG.git
  git pull origin master (escribir mensaje en vi)
  git push origin master
+ en el terminal nano .git/config
  */
 
 #import <Foundation/Foundation.h>
