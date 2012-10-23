@@ -18,6 +18,7 @@
 		DCA56B2B163685A700579349 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DCA56B2A163685A700579349 /* Default-568h@2x.png */; };
 		DCA56B2E163685A700579349 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCA56B2C163685A700579349 /* MainStoryboard.storyboard */; };
 		DCA56B31163685A700579349 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DCA56B30163685A700579349 /* ViewController.m */; };
+		DCA56B3D163686D000579349 /* Info.m in Sources */ = {isa = PBXBuildFile; fileRef = DCA56B3C163686D000579349 /* Info.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		DCA56B2D163685A700579349 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		DCA56B2F163685A700579349 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		DCA56B30163685A700579349 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DCA56B3B163686D000579349 /* Info.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Info.h; sourceTree = "<group>"; };
+		DCA56B3C163686D000579349 /* Info.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Info.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				DCA56B2F163685A700579349 /* ViewController.h */,
 				DCA56B30163685A700579349 /* ViewController.m */,
 				DCA56B1B163685A700579349 /* Supporting Files */,
+				DCA56B3B163686D000579349 /* Info.h */,
+				DCA56B3C163686D000579349 /* Info.m */,
 			);
 			path = "EJ15-2";
 			sourceTree = "<group>";
@@ -176,6 +181,7 @@
 				DCA56B21163685A700579349 /* main.m in Sources */,
 				DCA56B25163685A700579349 /* AppDelegate.m in Sources */,
 				DCA56B31163685A700579349 /* ViewController.m in Sources */,
+				DCA56B3D163686D000579349 /* Info.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
